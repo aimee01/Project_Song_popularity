@@ -1,4 +1,4 @@
-# Song_popularity-Project
+# Can we predict the popularity of a song?
 
 ### Context
 This study aims at distinguing the different criteria that make a hit in the music industry. By defining what is a popular song, we could predict if a song will have success or not.
